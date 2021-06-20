@@ -1,0 +1,20 @@
+[
+  {
+    "statistique_echantillon2": {
+      "nombre de chanson": 1273,
+      "nombre d'artistes (featuring inclus)": 50,
+      "nombre de chanson avec la date de réalisation": 500,
+      "nombre de chanson sans la date de réalisation": 773,
+      "nombre de chanson sans les paroles": 420,
+      "nombre de chanson avec les paroles": 853,
+      "nombre de caractères": 1321389,
+      "moyenne de caractères par chanson": 1549.107854630715,
+      "nombre de mots": 284988,
+      "moyenne de mots par chanson": 334.1008206330598,
+      "nombre de phrases": 56701,
+      "moyenne de phrase par chanson": 66.47245017584994,
+      "nombre de syllabes": 337353,
+      "moyenne de syllabes par chanson": 395.4900351699883
+    }
+  }
+]

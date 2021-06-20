@@ -1,0 +1,968 @@
+[
+  {
+    "J'": {
+      "fréquence absolu": 14,
+      "fréquence relative": 0.06306306306306306,
+      "pourcentage": "6.31 %"
+    }
+  },
+  {
+    "A": {
+      "fréquence absolu": 8,
+      "fréquence relative": 0.036036036036036036,
+      "pourcentage": "3.60 %"
+    }
+  },
+  {
+    "Ouille": {
+      "fréquence absolu": 8,
+      "fréquence relative": 0.036036036036036036,
+      "pourcentage": "3.60 %"
+    }
+  },
+  {
+    "Aidez": {
+      "fréquence absolu": 6,
+      "fréquence relative": 0.02702702702702703,
+      "pourcentage": "2.70 %"
+    }
+  },
+  {
+    "Jamais": {
+      "fréquence absolu": 5,
+      "fréquence relative": 0.02252252252252252,
+      "pourcentage": "2.25 %"
+    }
+  },
+  {
+    "Mini-moke": {
+      "fréquence absolu": 4,
+      "fréquence relative": 0.018018018018018018,
+      "pourcentage": "1.80 %"
+    }
+  },
+  {
+    "Maxistère": {
+      "fréquence absolu": 4,
+      "fréquence relative": 0.018018018018018018,
+      "pourcentage": "1.80 %"
+    }
+  },
+  {
+    "Les": {
+      "fréquence absolu": 4,
+      "fréquence relative": 0.018018018018018018,
+      "pourcentage": "1.80 %"
+    }
+  },
+  {
+    "Moi": {
+      "fréquence absolu": 4,
+      "fréquence relative": 0.018018018018018018,
+      "pourcentage": "1.80 %"
+    }
+  },
+  {
+    "Qu'Agathe": {
+      "fréquence absolu": 4,
+      "fréquence relative": 0.018018018018018018,
+      "pourcentage": "1.80 %"
+    }
+  },
+  {
+    "Viens": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Hippie": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Vive": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Ca": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Celles": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Lavabo": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Merde in France": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "M'": {
+      "fréquence absolu": 3,
+      "fréquence relative": 0.013513513513513514,
+      "pourcentage": "1.35 %"
+    }
+  },
+  {
+    "Mini-jupe": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Miniature": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Ministère": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Minimum": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Canigou": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Mange": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "la France": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Placés": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Fatigué": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Chaussée-d'Antin\n\n": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "jardin\nPassa": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Chaussée": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Varsovie": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Baltimore": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Amakawogo": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Venez": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Dou Doucement": {
+      "fréquence absolu": 2,
+      "fréquence relative": 0.009009009009009009,
+      "pourcentage": "0.90 %"
+    }
+  },
+  {
+    "Y": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Touche": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "rue\nSinon": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Réponds": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Sois": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Faut": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Dis": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Prends": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Tu": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Mégève": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Saint-Tropez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Rochelle\nJ'": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "San Francisco\n\nJe": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Toute": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai des tracas j'ai des tourments\nJ'ai pas l'moral": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai pas de chance j'ai pas d'amis\n\nJ'ai pas de pot j'ai des impôts": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Parc'": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Dont": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai maigri je suis": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'me tape la tête contre les murs\n\n": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Prendre": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Val-de-Grâce": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'aimerais": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Vieux": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Eh watching": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Yaoundé": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Amsterdam": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai fait des games": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Bornéo": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Papeete": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai bu de l'eau": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Bordeaux": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Tampico": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Calcutta": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Téhéran": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Saana": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Kinshassa": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Dôle": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Lourdes": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Créteil": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai eu la ber1ue": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Port-Gentil": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Tripoli": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Maintenant": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Gourougourou": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Bonsoir": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Instantané": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'fonds": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Dois": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai du plaisir": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Marcelle": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Réserve": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Voulez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai Maginot": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai dit comme tes bas : mi-long\n\nElle": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai ouï\n": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Dire": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Amiens": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Yvette": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai faim de toi": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai confiance": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Est": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "matin\nEst": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Croire": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Presque": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Toujours": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Gagnez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Hâtez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Portez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Sortez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Courez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Paris": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Euh!Euh": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "He!He": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "rue Le Regrantier": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "J'ai des talents\n": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Roméo": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Pénélope": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Disigny": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Goldwyn": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Métro\nMa": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Bernhart\nArroy": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Ménard": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Venise": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Électronique": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Lux": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Pyrex": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Gilet": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Braqué": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "’": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "N’": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Être": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Avoir": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Repousse": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Engagez": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Trocadéro\nPris": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "L'eau de mer": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Saint Omer": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Houlgate": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Boulevard Poissonnière": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "De": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Demi-jour\nD'un hotel": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  },
+  {
+    "Demi-tour": {
+      "fréquence absolu": 1,
+      "fréquence relative": 0.0045045045045045045,
+      "pourcentage": "0.45 %"
+    }
+  }
+]
